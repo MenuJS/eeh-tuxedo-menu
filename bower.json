@@ -1,0 +1,29 @@
+{
+  "name": "eeh-tuxedo-menu",
+  "version": "0.1.0",
+  "authors": [
+    "Ethan Hann <ethanhann@gmail.com>"
+  ],
+  "description": "An AngularJS Tuxdeo Menu module.",
+  "main": "src/eeh-tuxedo-menu.js",
+  "keywords": [
+    "AngularJS",
+    "Menu",
+    "Navigation",
+    "Tuxedo",
+    "eehNavigation",
+    "eeh"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">=1.2",
+    "tuxedo-menu": ">=0.4"
+  }
+}
