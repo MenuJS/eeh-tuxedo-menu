@@ -1,6 +1,6 @@
-# eeh-metis-menu
+# eeh-tuxedo-menu
 
-An AngularJS [metisMenu](https://github.com/beekmanlabs/tuxedo-menu) module.
+An AngularJS [Tuxedo Menu](https://github.com/beekmanlabs/tuxedo-menu) module.
 
 This module works great with the [eeh-navigation](https://ethanhann.github.io/eeh-navigation) module.
 
